@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Tab</string>
+    <string name="app_name">TravelMi</string>
+
+    <string name="title_activity_DataPemesan">DataPemesan</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_daftar">Daftar</string>
+    <string name="title_activity_keluar">Keluar</string>
+    <string name="title_activity_tes">Tes</string>
+    <string name="title_activity_daftar1">Daftar1</string>
+    <string name="title_activity_login1">Login1</string>
 </resources>

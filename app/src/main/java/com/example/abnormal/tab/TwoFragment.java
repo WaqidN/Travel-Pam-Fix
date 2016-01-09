@@ -10,6 +10,7 @@ import android.view.ViewGroup;
  * Created by abnormal on 06/12/15.
  */
 public class TwoFragment extends Fragment {
+
     public TwoFragment() {
     }
 
